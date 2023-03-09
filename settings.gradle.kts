@@ -1,0 +1,1 @@
+rootProject.name = "com.krokkserver.krokk-server"
