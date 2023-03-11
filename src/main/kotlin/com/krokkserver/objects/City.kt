@@ -4,6 +4,7 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class City(
+
     val id_locale: Int,
 
     val id: Int,
