@@ -1,5 +1,8 @@
 package com.krokkserver.objects
 
+import kotlinx.serialization.Serializable
+
+@Serializable
 data class Place(
 
     val id: Int,
